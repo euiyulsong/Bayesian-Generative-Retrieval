@@ -1,3 +1,4 @@
 # Bayesian-Generative-Retrieval
 
-[bayesian_generative_retrieval.pdf](https://github.com/euiyulsong/Bayesian-Generative-Retrieval/files/11855895/ai_702__1_.pdf)
+[bayesian_generative_retrieval.pdf](https://github.com/euiyulsong/Bayesian-Generative-Retrieval/files/13070307/xb_re3val.pdf)
+
